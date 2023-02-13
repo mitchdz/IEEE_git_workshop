@@ -83,7 +83,7 @@ Now that Github has our **Public Key** enrolled, it is time to configure our loc
 ```bash
 cd ~/.ssh/
 ```
-This is where your ssh configuration file will live. Depending on your system, it might be a different path, so let's determine what our home directory is
+This is where your ssh configuration file will live. Depending on your system, it might be a different path, so let's determine what our path is
 ```bash
 $ echo $PWD
 /c/Users/mitch/.ssh
