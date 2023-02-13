@@ -91,7 +91,7 @@ $ echo $PWD
 
 For me it's `/c/Users/mitch/.ssh` so I will use that in my configuration file, but it may be different for you.
 
-At this point, use whatever text editor you prefer (I use vim) to create the config file in `~/.ssh/` to look like so:
+At this point, use whatever text editor you prefer to create the config file in `~/.ssh/` to look like so:
 ```bash
 $ cat ~/.ssh/config
 Host github.com
