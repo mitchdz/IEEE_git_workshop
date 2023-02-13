@@ -13,6 +13,9 @@ Let's create our own branch!
 
 ```bash
 $ git checkout -b mybranch
+# Alternatively you can run the 2 commands to achieve the same thing:
+# git branch mybranch
+# git checkout mybranch
 ```
 And rerun `git branch -a`
 
