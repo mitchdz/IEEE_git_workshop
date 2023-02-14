@@ -17,6 +17,7 @@ We will now use our first git command to clone the remote repository. Copy that 
 
 ```bash
 $ mkdir -p ~/git/
+$ cd ~/git/
 $ git clone git@github.com:mitchdz/myrepo.git
 ```
 
