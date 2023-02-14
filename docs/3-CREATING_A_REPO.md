@@ -29,12 +29,7 @@ $ cd myrepo # or whatever name you made it
 And create your first file
 
 ```bash
-$ vim README.md
-# write whatever you want, for example:
-$ cat README.md
-# myrepo
-
-This is my repo!
+$ echo "# my repo!" > README.md
 ```
 
 Now you can use `git status` to see what the working tree looks like
