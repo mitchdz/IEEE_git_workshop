@@ -29,7 +29,7 @@ $ cd myrepo # or whatever name you made it
 And create your first file
 
 ```bash
-$ echo "# my repo!" > README.md
+$ echo " my repo!" > README.md
 ```
 
 Now you can use `git status` to see what the working tree looks like
