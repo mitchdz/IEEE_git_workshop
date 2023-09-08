@@ -18,6 +18,7 @@ and true RSA algorithm.
 ## 1A) Generating RSA keypair
 First, let's generate the key pairs in our `~/.ssh/` folder, so run the following command:
 ```bash
+mkdir -p ~/.ssh/
 $ cd ~/.ssh/
 ```
 
